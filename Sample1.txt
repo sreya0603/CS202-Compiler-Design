@@ -1,0 +1,5 @@
+int main(){
+    int i=2+3;
+    char *s;
+    return i+2;
+}
